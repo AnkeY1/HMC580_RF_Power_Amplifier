@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_Project2.PrjPCB]
+   Generated File[射频功放HMC580.TXT]
+   Generated File[射频功放HMC580.LDP]
+   Generated File[射频功放HMC580.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:29:50 On 2021/8/1

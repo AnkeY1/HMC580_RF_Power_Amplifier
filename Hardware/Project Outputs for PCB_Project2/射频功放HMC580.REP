@@ -1,0 +1,36 @@
+*************************************************************
+FileName = 射频功放HMC580.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : 射频功放HMC580.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 射频功放HMC580.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
